@@ -1,0 +1,9 @@
+food = "mango"
+is_new = true
+x = "This #{food} is super delicious!"
+num1 = 21
+num2 = 5
+num3 = num1 * num2  puts "#{num3}"
+movies = ("matrix", "matrix_reloaded", "the_dark_crystal")
+arr.splice(0, -2)
+puts "My name is Dani.".length
