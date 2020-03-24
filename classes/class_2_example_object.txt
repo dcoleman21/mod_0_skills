@@ -1,0 +1,13 @@
+Instance: Dani's Pho 21
+
+attributes:
+food_type: "pho cuisine"
+portion_size: ["small", "medium", "large"]
+price: 11.95
+temperature: true
+
+methods:
+is_soup: "pho cuisine and soup"
+pick_size_small: ["medium", "large"]
+lunch_special: price: 9.95
+is_spicy: temperature: true 
