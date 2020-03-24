@@ -1,0 +1,13 @@
+Dani's graduation table
+
+attributes:
+material: ["plastic", "metal"]
+shape: true
+height: 42
+length: 121
+
+methods:
+make_wood: ["plastic", "metal", "wood"]
+make_square: true
+is_high_top: 44
+seat_six: 123
