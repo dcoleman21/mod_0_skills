@@ -1,4 +1,4 @@
-Dani's graduation table
+Instance: Dani's graduation table
 
 attributes:
 material: ["plastic", "metal"]
