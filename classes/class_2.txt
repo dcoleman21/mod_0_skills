@@ -7,7 +7,7 @@ price (float)
 temperature (boolean)
 
 Methods:
-is_soup (adds a food type)
-pick_size (adds size to array)
+is_soup (adds a food type soup)
+pick_size_small (removes size from array)
 lunch_special (lowers price by 2)
-is_spicy (makes temperature hot)
+is_spicy (makes temperature true)
