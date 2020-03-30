@@ -2,12 +2,12 @@ Class = Table
 
 Attributes:
 material (array)
-shape (boolean)
+square (boolean)
 height (integer)
 length (integer)
 
 Methods:
 make_wood (updates material)
 make_square (makes round false)
-is_high_top (makes table height taller)
+make_high_top (makes table height taller)
 seat_two (makes table length smaller)

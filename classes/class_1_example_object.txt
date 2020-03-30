@@ -1,13 +1,13 @@
 Instance: Dani's graduation table
 
 attributes:
-material: ["plastic", "metal"]
-shape: true
+material: ["plastics", "metals"]
+square: true
 height: 42
 length: 121
 
 methods:
-make_wood: ["plastic", "metal", "wood"]
+make_wood: ["plastics", "metals", "woods"]
 make_square: true
-is_high_top: 44
+make_high_top: 44
 seat_six: 123
