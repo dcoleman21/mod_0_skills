@@ -1,13 +1,13 @@
 Class = Food
 
 Attributes:
-food_type (string)
-portion_size (array)
+food_types (string)
+portion_sizes (array)
 price (float)
-temperature (boolean)
+season (boolean)
 
 Methods:
-make_soup (adds a food type soup)
+make_soup (adds a food type to string)
 pick_size_small (removes size from array)
 lunch_special (lowers price by 2)
-make_spicy (makes temperature true)
+make_spicy (makes season true)
